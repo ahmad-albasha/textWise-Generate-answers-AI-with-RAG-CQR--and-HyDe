@@ -25,7 +25,7 @@ This makes textWise highly adaptable for companies, students, schools, and resea
 
 Clone this repository:
 
-git clone https://github.com/your-username/textWise.git
+git clone https://github.com/ahmad-albasha/textWise-Generate-answers-AI-with-RAG-CQR--and-HyDe.git
 cd textWise
 
 
