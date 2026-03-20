@@ -227,6 +227,8 @@ Contributions are welcome and appreciated!
 - [ ] Deploy to Streamlit Cloud or Hugging Face Spaces
 
 <br/>
+
+---
 ## 👤 Author
 
 Ahmad Albasha
@@ -234,8 +236,6 @@ Ahmad Albasha
 [![GitHub](https://img.shields.io/badge/GitHub-ahmad--albasha-181717?style=flat-square&logo=github)](https://github.com/ahmad-albasha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmad-a-9a0373123)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ahmad-albasha09@hotmail.com)
-
----
 
 ---
 
